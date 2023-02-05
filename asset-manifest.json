@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/github.io/reactdeployusinggithub/static/js/main.ebc9d779.js",
-    "static/js/787.88008f41.chunk.js": "/github.io/reactdeployusinggithub/static/js/787.88008f41.chunk.js",
-    "index.html": "/github.io/reactdeployusinggithub/index.html",
-    "main.ebc9d779.js.map": "/github.io/reactdeployusinggithub/static/js/main.ebc9d779.js.map",
-    "787.88008f41.chunk.js.map": "/github.io/reactdeployusinggithub/static/js/787.88008f41.chunk.js.map"
+    "main.js": "/reactdeployusinggithub/static/js/main.595cef24.js",
+    "static/js/787.88008f41.chunk.js": "/reactdeployusinggithub/static/js/787.88008f41.chunk.js",
+    "index.html": "/reactdeployusinggithub/index.html",
+    "main.595cef24.js.map": "/reactdeployusinggithub/static/js/main.595cef24.js.map",
+    "787.88008f41.chunk.js.map": "/reactdeployusinggithub/static/js/787.88008f41.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.ebc9d779.js"
+    "static/js/main.595cef24.js"
   ]
 }
